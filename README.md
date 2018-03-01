@@ -17,9 +17,9 @@ The interface is divided into 5 main parts:
 ## Key Function Analysis
 
 ###### Command: *File> Mode>*
-- Automatic
-  
+- Automatic  
   The user introduces the prerequisites to simulate one sending of messages from the broadcaster  
+  
   - Binary Messages:  
     Enter the number of messages  
   - Bits per Message:  
@@ -34,9 +34,9 @@ Once all the necessary information has been entered with Start, the message pack
 
 ![alt text](https://raw.githubusercontent.com/karakasis/crc-error-detection/master/readme-images/2.png)
 
-- Manual
-
-  The user introduces the prerequisites to simulate sending a message from the broadcaster  
+- Manual  
+  The user introduces the prerequisites to simulate sending a message from the broadcaster
+  
   - Binary Message:  
     Enter the binary message to be transmitted  
   - Binary Polynomial:  
@@ -53,8 +53,7 @@ After all the necessary information is inserted with the Add option, the message
 
 ## Frame Analysis
 
-  - Message list:
-  
+  - Message list:  
     After each transmission (manual or auto) to the left of the interface, the list is filled with messages. By selecting one of these,     the user can see what happens when transmitting totally in the information box (green box) or modulo-2 process in the central tab       box.  
     Select (Show): the user can filter the results shown in the list.  
   - Tabs of numeric modulo-2  
@@ -87,23 +86,23 @@ After all the necessary information is inserted with the Add option, the message
     - Bit-Errors, a table that matches the number of bits with the number of messages having so many bit errors  
 
 ## Analysis of secondary operations
-###### Command: *File> Screenshot*
+###### Command: *File> Screenshot*  
   Snapshot download and save to the Windows or the file execution file (OS rests)
-###### Command: *File> Import CRC*
+###### Command: *File> Import CRC*  
   Loading a .crc file from a previous run
-###### Command: *File> Export as CRC*
+###### Command: *File> Export as CRC*  
   Save the current simulation in .crc file format
-###### Command: *File> Clear Simulation*
+###### Command: *File> Clear Simulation*  
   Delete any results the interface has generated (attention does not display a message)
-###### Command: *Edit> Run Target Simulation*
+###### Command: *Edit> Run Target Simulation*  
   Insertion by the user of the number of messages and execution of exercise B as requested in the job
-###### Command: *Edit> Run Random Simulation*
+###### Command: *Edit> Run Random Simulation*  
   Performing random simulation (with predefined thresholds that can be edited by the user, see Below *)
-###### Command: *Edit> Batch Re-Transmission*
+###### Command: *Edit> Batch Re-Transmission*  
   Retransmits messages that have been flagged by the CRC as incorrect
-###### Command: *Edit> Change Results Format*
+###### Command: *Edit> Change Results Format*  
   Changes the way the data appears in the results box (between percentages and integer values)
-###### Command: *Edit> Customize Random Simulation*
+###### Command: *Edit> Customize Random Simulation*  
   Edit Custom Values in Random Transmission Mode (attention has not been given to the input control structure, so the results depend on   the user input values)
-###### Command: *Edit> Change Font Size*
+###### Command: *Edit> Change Font Size*  
   String size control
