@@ -42,18 +42,13 @@ Once all the necessary information has been entered with Start, the message pack
 
   The user introduces the prerequisites to simulate sending a message from the broadcaster
   - Binary Message:
-  
     Enter the binary message to be transmitted
   - Binary Polynomial:
-    
     Enter the binary combination to be used in the transmission
    - Noise Altered:
-
      Select whether the message will be spoiled
      - If selected: *(if correctly entered above)*
-     
        - Bit Errors:
-       
          Selection of bits that will be spoiled (at least one - Multiple bits are selected using ctrl + click)
 
 After all the necessary information is inserted with the Add option, the message is added to the message packet and transmitted. As each message may have a different length or polynomial or noise alteration, it is obvious that it is not right to retain final results, so the function of the results is not accessible in manual mode.
