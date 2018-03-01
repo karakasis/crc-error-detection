@@ -85,23 +85,23 @@ After all the necessary information is inserted with the Add option, the message
 
 ## Analysis of secondary operations
 ###### Command: *File> Screenshot*  
-    Takes a screenshot of the working enviroment and saves it to Desktop (Windows) or source folder (other OS)
+  Takes a screenshot of the working enviroment and saves it to Desktop (Windows) or source folder (other OS)
 ###### Command: *File> Import CRC*  
-    Load a .crc file of a former simulation
+  Load a .crc file of a former simulation
 ###### Command: *File> Export as CRC*  
-    Save the current simulation in .crc file format
+  Save the current simulation in .crc file format
 ###### Command: *File> Clear Simulation*  
-    Delete any results the interface has generated (**warning does not display an alert message**)
+  Delete any results the interface has generated (**warning does not display an alert message**)
 ###### Command: *Edit> Run Target Simulation*  
-    User defines the number of messages and executes a hard-coded example
+  User defines the number of messages and executes a hard-coded example
 ###### Command: *Edit> Run Random Simulation*  
-    Performs a random simulation (with predefined thresholds that can be edited by the user)
+  Performs a random simulation (with predefined thresholds that can be edited by the user)
 ###### Command: *Edit> Batch Re-Transmission*  
-    Retransmits messages that have been flagged by the CRC as incorrect
+  Retransmits messages that have been flagged by the CRC as incorrect
 ###### Command: *Edit> Change Results Format*  
-    Changes the way the data appears in the results box (between percentages and integer values)
+  Changes the way the data appears in the results box (between percentages and integer values)
 ###### Command: *Edit> Customize Random Simulation*  
-    Edit Custom Values in Random Transmission Mode (**warning since this is not controlled, the integrity of the results is based purely
-    on the user**)
+  Edit Custom Values in Random Transmission Mode (**warning since this is not controlled, the integrity of the results is based purely
+  on the user**)
 ###### Command: *Edit> Change Font Size*  
-    Controls the font size
+  Controls the font size
