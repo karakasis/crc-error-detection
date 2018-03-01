@@ -99,23 +99,23 @@ After all the necessary information is inserted with the Add option, the message
     - Bit-Errors, a table that matches the number of bits with the number of messages having so many bit errors
 
 ## Analysis of secondary operations
-Command: File> Screenshot
-Snapshot download and save to the Windows or the file execution file (OS rests)
-Command: File> Import CRC
-Loading a .crc file from a previous run
-Command: File> Export as CRC
-Save the current simulation in .crc file format
-Command: File> Clear Simulation
-Delete any results the interface has generated (attention does not display a message)
-Command: Edit> Run Target Simulation
-Insertion by the user of the number of messages and execution of exercise B as requested in the job
-Command: Edit> Run Random Simulation
-Performing random simulation (with predefined thresholds that can be edited by the user, see Below *)
-Command: Edit> Batch Re-Transmission
-Retransmits messages that have been flagged by the CRC as incorrect
-Command: Edit> Change Results Format
-Changes the way the data appears in the results box (between percentages and integer values)
-Command: Edit> Customize Random Simulation *
-Edit Custom Values ​​in Random Transmission Mode (attention has not been given to the input control structure, so the results depend on the user input values)
-Command: Edit> Change Font Size
-String size control
+###### Command: *File> Screenshot*
+  Snapshot download and save to the Windows or the file execution file (OS rests)
+###### Command: *File> Import CRC*
+  Loading a .crc file from a previous run
+###### Command: *File> Export as CRC*
+  Save the current simulation in .crc file format
+###### Command: *File> Clear Simulation*
+  Delete any results the interface has generated (attention does not display a message)
+###### Command: *Edit> Run Target Simulation*
+  Insertion by the user of the number of messages and execution of exercise B as requested in the job
+###### Command: *Edit> Run Random Simulation*
+  Performing random simulation (with predefined thresholds that can be edited by the user, see Below *)
+###### Command: *Edit> Batch Re-Transmission*
+  Retransmits messages that have been flagged by the CRC as incorrect
+###### Command: *Edit> Change Results Format*
+  Changes the way the data appears in the results box (between percentages and integer values)
+###### Command: *Edit> Customize Random Simulation*
+  Edit Custom Values in Random Transmission Mode (attention has not been given to the input control structure, so the results depend on   the user input values)
+###### Command: *Edit> Change Font Size*
+  String size control
